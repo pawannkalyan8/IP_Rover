@@ -29,11 +29,7 @@ logo = f"""
   ███    ███ ███    ███ ███    ███   ███    ███   ███    ███ 
   ███    ███  ▀██████▀   ▀██████▀    ██████████   ███    ███ 
   ███    ███                                      ███    ███ 
-            {y}<{w}/{y}> {c}Author: {w}Saad Khan {r}|{g} Cyber-Dioxide    
-
-{w}<{y}/{w}> {GB}{w}Instagram : @cyber_dioxide {Back.RESET}
-{w}<{y}/{w}> {YB}{w}Coding Instagram : @cyber_dioxide_ {Back.RESET}
-{w}<{y}/{w}> {WB}{w}Github: Cyber-Dioxide  {Back.RESET}                                                                                                     
+            {y}<{w}/{y}> {c}Author: {w}pawann kalyan {r}|{g} Cyber-Dioxide                                                                                                        
 """
 c = colors
 try:
